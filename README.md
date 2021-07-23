@@ -1,4 +1,4 @@
-# computerVision_virtualMouse
+# Virtual mouse computer vision
 
 This computer vision based mouse uses a web camera to control and command the cursor on a computer screen with the help of a reference mark placed inside the Region of Interest (ROI) which is going to be in a grid format that basically aids in the conversion of the marker's location to cursor movement. The ROI is where we'll do all of the mouse work and where our sensor will detect the marker. 
 <br><br>
